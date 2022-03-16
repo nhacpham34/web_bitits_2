@@ -1,0 +1,208 @@
+[
+    {
+    "id": "MEN",
+    "id2": 1,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/vapor-max-air-training-duffel-bag-yJwoN91-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "M",
+    "ProductName": "NIKE VAPOR MAX AIR (MEDIUM)",
+    "Price": "2.999,000"
+    },
+    {
+    "id": "MEN",
+    "id2": 2,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/new-york-knicks-city-edition-dry-nba-t-shirt-7mFVXN1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "M",
+    "ProductName": "NEW YORK KNICKS CITY EDITION NIKE DRY",
+    "Price": "919,000"
+    },
+    {
+    "id": "MEN",
+    "id2": 3,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/kobe-bryant-all-star-edition-swingman-jersey-jordan-nba-connected-jersey-Sv016H1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "M",
+    "ProductName": "KOBE BRYANT ALL-STAR EDITION SWINGMAN JERSEY",
+    "Price": "2,249,000"
+    },
+    {
+    "id": "MEN",
+    "id2": 4,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/air-vapormax-r-running-shoe-9dgzpr1-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "M",
+    "ProductName": "NIKE LEBRON MAX AIR AMBASSADOR",
+    "Price": "2,249,000"
+    },
+    {
+    "id": "MEN",
+    "id2": 5,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/o4fvv6doadpvey5idrsv-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "M",
+    "ProductName": "NIKE LEBRON MAX AIR AMBASSADOR",
+    "Price": "2,249,000"
+    },
+    {
+    "id": "BOY",
+    "id2": 6,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/sportswear-cheyenne-3-solid-backpack-ZwTJdEmZ1-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "boys",
+    "ProductName": "NIKE SPORTSWEAR CHEYENNE 3.0 SOLID",
+    "Price": "1.869,000"
+    },
+    {
+    "id": "BOY",
+    "id2": 7,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/strike-football-5DvKpy1-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "boys",
+    "ProductName": "NIKE STRIKE",
+    "Price": "749,000"
+    },
+    {
+    "id": "BOY",
+    "id2": 8,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/sportswear-older-trousers-QbxX0R1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "boys",
+    "ProductName": "Nike Sportswear Trousers",
+    "Price": "749,000"
+    },
+    {
+    "id": "BOY",
+    "id2": 9,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/sportswear-older-hoodie-34HLsl1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "boys",
+    "ProductName": " NIKE SPORTSWEAR",
+    "Price": "919,000"
+    },
+    {
+    "id": "MEN",
+    "id2": 10,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/lebron-max-air-ambassador-backpack-w7VW7t1-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "M",
+    "ProductName": "NIKE LEBRON MAX AIR AMBASSADOR",
+    "Price": "2,249,000"
+    },
+    {
+    "id": "WOMEN",
+    "id2": 11,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/sportswear-advance-15-hoodie-9vgMRK1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "W",
+    "ProductName": "NIKE SPORTSWEAR ADVANCE 15",
+    "Price": "1,990,000"
+    },
+    {
+    "id": "WOMEN",
+    "id2": 11,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/sportswear-printed-jacket-sR8XbG1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "W",
+    "ProductName": "NIKE SPORTSWEAR",
+    "Price": "2,529,000"
+    },
+    {
+    "id": "WOMEN",
+    "id2": 12,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/lunarsolo-running-shoe-WyTA797x1-300x300.jpg",
+    "ProductType": "SHOES",
+    "ProductSize": "W",
+    "ProductName": "NIKE LUNARSOLO",
+    "Price": "2,869,000"
+    },
+    {
+    "id": "WOMEN",
+    "id2": 13,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/air-huarache-city-low-shoe-3Fz2271-300x300.jpg",
+    "ProductType": "SHOES",
+    "ProductSize": "W",
+    "ProductName": "NIKE AIR HUARACHE CITY LOW",
+    "Price": "1,990,000"
+    },
+    {
+    "id": "BOY",
+    "id2": 14,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/air-max-90-leather-older-shoe-KZZkxJ1-300x300.jpg",
+    "ProductType": "SHOES",
+    "ProductSize": "B",
+    "ProductName": "NIKE AIR MAX 90 LEATHER",
+    "Price": "2,199,000"
+    },
+    {
+    "id": "BOY",
+    "id2": 15,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/huarache-run-drift-older-shoe-N6Dqbf1-300x300.jpg",
+    "ProductType": "SHOES",
+    "ProductSize": "B",
+    "ProductName": "NIKE HUARACHE RUN DRIFT",
+    "Price": "2,599,000"
+    },
+    {
+    "id": "GIRL",
+    "id2": 16,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/pro-older-4-training-shorts-Q1BhcQ1-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "G",
+    "ProductName": "NIKE PRO Older Kids’ (Girls’) 4″ (10cm approx.) Training Shorts",
+    "Price": "519,000",
+    "description":"Lightweight and breathable, the Nike Pro Older Kids’ (Girls’) 4″ (10cm approx.) Training Shorts help keep you confident and supported at the gym, studio or your next game."
+    },
+    {
+    "id": "GIRL",
+    "id2": 17,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/pro-older-short-sleeve-top-bBnd961-300x300.jpg",
+    "ProductType": "CLOTHING",
+    "ProductSize": "G",
+    "ProductName": "NIKE PRO Older Kids’ (Girls’) Short-Sleeve Top",
+    "Price": "519,000",
+    "description":"The Nike Pro Older Kids’ (Girls’) Short-Sleeve Top combines sweat-wicking technology with mesh fabric to help keep you dry, cool and comfortable at training or when playing with your friends."
+    },
+    {
+    "id": "GIRL",
+    "id2": 18,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/graphic-gymsack-Vld7kd1-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "G",
+    "ProductName": "NIKE GRAPHIC",
+    "Price": "299,000",
+    "description":"The Nike Graphic Kids’ Gymsack features drawcord shoulder straps and a spacious main compartment for convenient storage."
+    },
+    {
+    "id": "GIRL",
+    "id2": 19,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/brasilia-backpack-T2Dv5R1-300x300.jpg",
+    "ProductType": "GEAR",
+    "ProductSize": "G",
+    "ProductName": "NIKE BRASILIA",
+    "Price": "619,000",
+    "description":"The Nike Brasilia Kids’ Backpack features a spacious main compartment and padded shoulder straps for ample storage and comfortable carrying."
+    },
+    {
+    "id": "GIRL",
+    "id2": 20,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/md-runner-2-older-shoe-JkTGyo4l1-300x300.jpg",
+    "ProductType": "SHOES",
+    "ProductSize": "G",
+    "ProductName": "NIKE MD RUNNER 2",
+    "Price": "1,719,000",
+    "description":"The Nike MD Runner 2 Older Kids’ Shoe brings lightweight cushioning for enhanced comfort."
+    },
+    {
+    "id": "GIRL",
+    "id2": 21,
+    "imgLink": "http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/free-rn-2017-older-running-shoe-rezp121-300x300.jpg",
+    "ProductType": "SHOES",
+    "ProductSize": "G",
+    "ProductName": "NIKE FREE RN 2017",
+    "Price": "2,449,000",
+    "description":"The Nike Free RN 2017 Older Kids’ Running Shoe lets you run naturally and comfortably thanks to a Nike Free sole that flexes with your foot on every stride."
+    }
+    
+    
+]
